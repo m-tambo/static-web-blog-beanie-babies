@@ -1,3 +1,16 @@
+
 .bean {
-  margin: 5% 10%;
+  margin: 5% 10%;}
+
+/******* Styling the main picture *******/
+body {
+	margin: 0;
+}
+
+header img {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+
 }
